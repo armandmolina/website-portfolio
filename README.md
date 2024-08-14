@@ -29,5 +29,3 @@ If you have any questions or would like to connect, feel free to reach out via [
 ---
 
 Thank you for visiting my portfolio!
-
-https://armandmolina.github.io/website-portfolio/
